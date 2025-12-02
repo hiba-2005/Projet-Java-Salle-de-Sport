@@ -1,7 +1,7 @@
 # 🏋️ Salle de Sport 
 ## LOGO
 
-<div align="center"> <img src="image/HO4.jpg" alt="Résultat Exercice 1" width="1000"/> <p><em>Figure 1</em></p> </div>
+<div align="center"> <img src="src/image/HO4.jpg" alt="Résultat Exercice 1" width="600"/> <p><em>Figure 1</em></p> </div>
 ---
 
 # 📁 Table de Matières
