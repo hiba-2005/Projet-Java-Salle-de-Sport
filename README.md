@@ -15,7 +15,6 @@
 - 🏛 [Architecture](#-architecture)
 - 🛠 [Technologies Utilisées](#-technologies-utilisées)
 - 🎥 [Démo Vidéo](#-démo-vidéo)
-- 📁 [Téléchargement (.exe)](#-téléchargement-exe)
 - 👤 Auteur
 
 ---
@@ -57,6 +56,7 @@ Développer une **application efficace, moderne et automatisée** permettant :
 ---
 # 📊 Diagrammes :
 Diagramme de classe :
+![WhatsApp Image 2025-12-02 à 21 37 28_aa776007](https://github.com/user-attachments/assets/c2178d60-20cb-4355-bc90-f131ea4ea665)
 
 ------
 # 🗃 Tables de Données 
@@ -179,6 +179,7 @@ NetBeans (IDE Java)
 
 -----
 # 🎥 Démo Vidéo
+
 
 https://github.com/hiba-2005/Projet-Java-Salle-de-Sport/releases/download/v1.0/Video.Projet.Salle.de.Sport1.mp4 
 
