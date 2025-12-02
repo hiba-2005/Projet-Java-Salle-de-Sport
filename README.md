@@ -166,13 +166,27 @@ projet/
 ├── dist/
 └── setup/
 ````
-# 🎥 Démo Vidéo
+-----
+#🛠 Technologies Utilisées:
 
-## ▶️ Voir la démonstration complète du projet :
+- **Framework d'interface graphique :** Java Swing
+- **Base de données :** MySQL
+- **Accès aux données :** JDBC
+- **Outils de développement :**
+NetBeans (IDE Java)
+- **Gestion de base de données :** phpMyAdmin
+- **Bibliothèque d'icônes :** Icons8
 
-👉 https://github.com/hiba-2005/Projet-Java-Salle-de-Sport/releases/download/v1.0/Video.Projet.Salle.de.Sport1.mp4
+-----
+## 🎥 Démo Vidéo
+
+<video width="100%" controls>
+  <source src="https://raw.githubusercontent.com/hiba-2005/Projet-Java-Salle-de-Sport/main/Video.Projet.Salle.de.Sport1.mp4" type="video/mp4">
+  Votre navigateur ne supporte pas la lecture vidéo.
+</video>
 
 ----
+
 # 👤 Auteur
 
 Hiba Ouirouane – 2025
