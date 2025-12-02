@@ -1,7 +1,7 @@
-# 🏋️ Salle de Sport +2  
-Application Java complète de gestion d’une salle de sport  
-*Gestion des abonnés, abonnements, paiements, filtrage & statistiques*
+# 🏋️ Salle de Sport 
+## LOGO
 
+<div align="center"> <img src="image/HO4.jpg" alt="Résultat Exercice 1" width="1000"/> <p><em>Figure 1</em></p> </div>
 ---
 
 # 📁 Table de Matières
@@ -167,7 +167,7 @@ projet/
 └── setup/
 ````
 -----
-#🛠 Technologies Utilisées:
+# 🛠 Technologies Utilisées:
 
 - **Framework d'interface graphique :** Java Swing
 - **Base de données :** MySQL
@@ -178,12 +178,9 @@ NetBeans (IDE Java)
 - **Bibliothèque d'icônes :** Icons8
 
 -----
-## 🎥 Démo Vidéo
+# 🎥 Démo Vidéo
 
-<video width="100%" controls>
-  <source src="https://raw.githubusercontent.com/hiba-2005/Projet-Java-Salle-de-Sport/main/Video.Projet.Salle.de.Sport1.mp4" type="video/mp4">
-  Votre navigateur ne supporte pas la lecture vidéo.
-</video>
+https://github.com/hiba-2005/Projet-Java-Salle-de-Sport/releases/download/v1.0/Video.Projet.Salle.de.Sport1.mp4 
 
 ----
 
