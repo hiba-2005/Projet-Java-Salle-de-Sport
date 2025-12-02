@@ -181,8 +181,7 @@ NetBeans (IDE Java)
 # 🎥 Démo Vidéo
 
 
-https://github.com/hiba-2005/Projet-Java-Salle-de-Sport/releases/download/v1.0/Video.Projet.Salle.de.Sport1.mp4 
-
+https://github.com/hiba-2005/Projet-Java-Salle-de-Sport/releases/download/v2.0/Screen.Recording.2.mp4
 ----
 
 # 👤 Auteur
