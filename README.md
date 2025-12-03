@@ -56,7 +56,8 @@ Développer une **application efficace, moderne et automatisée** permettant :
 ---
 # 📊 Diagrammes :
 Diagramme de classe :
-![WhatsApp Image 2025-12-02 à 21 37 28_aa776007](https://github.com/user-attachments/assets/c2178d60-20cb-4355-bc90-f131ea4ea665)
+
+![WhatsApp Image 2025-12-03 à 12 45 26_f7199ba8](https://github.com/user-attachments/assets/6552e9ad-d624-47fc-82a4-169d7f2e37c2)
 
 ------
 # 🗃 Tables de Données 
