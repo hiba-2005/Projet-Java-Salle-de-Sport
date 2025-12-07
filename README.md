@@ -129,17 +129,17 @@ CREATE TABLE abonnement (
     type VARCHAR(50) NOT NULL,
     duree INT NOT NULL,
     prix DOUBLE NOT NULL,
-    FOREIGN KEY (abonneId) REFERENCES abonne(id) ON DELETE CASCADE
+    FOREIGN KEY (abonneId) REFERENCES abonne(id) 
 );
 
 CREATE TABLE paiement (
-    id INT AUTO_INCREMENT PRIMARY KEY,
+    PRIMARY KEY (abonneId, abonnementId),
     abonneId INT NOT NULL,
     abonnementId INT NOT NULL,
     datePaiement DATE NOT NULL,
     montant DOUBLE NOT NULL,
-    FOREIGN KEY (abonneId) REFERENCES abonne(id) ON DELETE CASCADE,
-    FOREIGN KEY (abonnementId) REFERENCES abonnement(id) ON DELETE CASCADE
+    FOREIGN KEY (abonneId) REFERENCES abonne(id) ,
+    FOREIGN KEY (abonnementId) REFERENCES abonnement(id) 
 );
 
 CREATE TABLE user (
