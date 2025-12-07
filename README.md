@@ -70,10 +70,10 @@ Abonne (id, nom, prenom, age, sexe)
 Abonnement (id, id_abonne, type, duree, prix)
 
 ### 💰 Paiement
-Paiement (id, id_abonne, datePaiement, montant)
+Paiement ( id_abonne, id_abonnemant,datePaiement, montant)
 
 ### 🔐 User
-User (id, login, password, email)
+User ( login, password, email)
 
 -------
 # ✨ Fonctionnalités Principales
