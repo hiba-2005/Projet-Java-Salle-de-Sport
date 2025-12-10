@@ -58,6 +58,7 @@ Développer une **application efficace, moderne et automatisée** permettant :
 Diagramme de classe :
 
 ![WhatsApp Image 2025-12-07 à 14 21 57_853c1a1a](https://github.com/user-attachments/assets/0f14f199-9e9c-4bac-994a-88f251b8f90a)
+![WhatsApp Image 2025-12-07 à 14 21 58_0efe01e2](https://github.com/user-attachments/assets/77fa5a81-ad07-48db-b0f5-39d109c0ec4c)
 
 
 ------
@@ -167,7 +168,13 @@ projet/
 ├── video/
 ├── dist/
 └── setup/
+
 ````
+<img width="2592" height="1632" alt="Gemini_Generated_Image_n57t9un57t9un57t" src="https://github.com/user-attachments/assets/a4a5615b-16db-4d90-9179-1aa4e087b729" />
+![WhatsApp Image 2025-12-10 à 12 26 08_b9b416fb](https://github.com/user-attachments/assets/54aaa276-0473-46d3-bbfa-0dbbf5c90374)
+
+
+
 -----
 # 🛠 Technologies Utilisées:
 
