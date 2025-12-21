@@ -8,7 +8,7 @@
 - 🗂 [Contexte](#-contexte)
 - ❓ [Problématique](#-problématique)
 - 🎯 [Objectif](#-objectif)
-- 📊 [Diagrammes](#-diagrammes)
+- 📊 [MERISE](#-merise)
 - 🗃 [Tables de Données](#-tables-de-données)
 - ✨ [Fonctionnalités Principales](#-fonctionnalités-principales)
 - 🔍 [Requêtes SQL](#-requêtes-sql)
@@ -54,10 +54,10 @@ Développer une **application efficace, moderne et automatisée** permettant :
 - Une installation facile (fichier .exe via Inno Setup)
 
 ---
-# 📊 Diagrammes :
-Diagramme de classe :
+# 📊 MERISE :
+MCD
 
-<img width="574" height="269" alt="image" src="https://github.com/user-attachments/assets/e94baf8a-bbcb-4d5e-96a4-28dc17c4bdde" />
+![WhatsApp Image 2025-12-21 at 13 39 09](https://github.com/user-attachments/assets/74b87416-f1fb-4d75-b80b-34faef7e2f09)
 
 
 
@@ -171,7 +171,7 @@ projet/
 
 ````
 <img width="2592" height="1632" alt="Gemini_Generated_Image_n57t9un57t9un57t" src="https://github.com/user-attachments/assets/a4a5615b-16db-4d90-9179-1aa4e087b729" />
-![WhatsApp Image 2025-12-10 à 12 26 08_b9b416fb](https://github.com/user-attachments/assets/54aaa276-0473-46d3-bbfa-0dbbf5c90374)
+
 
 
 
